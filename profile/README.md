@@ -5,8 +5,8 @@ Nautilus Games, also known as **N11s**, is a game provider, stands out as an inn
 # Links
 
 - Our Website: https://nautilusgames.com/
-- API Integation: https://docs.nautilusgames.com/
 - Our blog https://docs.nautilusgames.com/blog
+- API Integation: https://docs.nautilusgames.com/
 - Youtube https://www.youtube.com/@NautilusGamesOfficial
 - Facebook https://www.facebook.com/nautilusgamesofficial
 - X: https://x.com/NautilusGamesOA
